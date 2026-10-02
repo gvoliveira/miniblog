@@ -3,7 +3,7 @@
 > Blog pessoal do **Prof. Gilberto** — um espaço para compartilhar ideias,
 > materiais didáticos e reflexões sobre tecnologia, educação e programação.
 
-[![Deploy](https://github.com/gvoliveira/miniblog/actions/workflows/hugo.yaml/badge.svg)](https://github.com/gvoliveira/miniblog/actions/workflows/hugo.yaml)
+[![Deploy](https://github.com/gvoliveira/miniblog/actions/workflows/hugo.yml/badge.svg)](https://github.com/gvoliveira/miniblog/actions/workflows/hugo.yml)
 [![Hugo](https://img.shields.io/badge/Hugo-0.167-FF4088?logo=hugo&logoColor=white)](https://gohugo.io/)
 [![Theme](https://img.shields.io/badge/Theme-LoveIt-blue)](https://github.com/dillonzq/LoveIt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
