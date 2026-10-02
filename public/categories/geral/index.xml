@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Geral - Categoria - Prof Gilberto blog</title>
+        <link>http://localhost:1313/miniblog/categories/geral/</link>
+        <description>Geral - Categoria - Prof Gilberto blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Fri, 02 Oct 2026 09:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/miniblog/categories/geral/" rel="self" type="application/rss+xml" /><item>
+    <title>Olá Mundo pra dar sorte!</title>
+    <link>http://localhost:1313/miniblog/posts/2026/ola-mundo/</link>
+    <pubDate>Fri, 02 Oct 2026 09:00:00 -0300</pubDate>
+    <author>Gilberto</author>
+    <guid>http://localhost:1313/miniblog/posts/2026/ola-mundo/</guid>
+    <description><![CDATA[Olá Mundo! Para dar sorte em qualquer teste de código, nunca se esqueça desse ritual!]]></description>
+</item>
+</channel>
+</rss>

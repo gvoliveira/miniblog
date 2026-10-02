@@ -1,12 +1,77 @@
 baseURL = 'https://gvoliveira.github.io/miniblog/'
-locale = 'pt-br'
-title = 'miniblog'
-theme = "PaperMod"
+languageCode = 'pt-br'
+defaultContentLanguage = 'pt-br'
+title = 'Prof Gilberto blog'
+theme = 'LoveIt'
+
 paginate = 5
 
 [params]
-  description = "Miniblog com postagens em Markdown."
-  defaultTheme = "auto"
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
+  version = "0.2.X"
+  description = "Blog pessoal"
+  noFavicon = false
+
+  [params.app]
+    title = "miniblog"
+    noThemeColor = false
+    themeColor = "#ffffff"
+    icon = "favicon.png"
+    favicon = "favicon.png"
+    svgFavicon = ""
+    iconColor = "#5bbad5"
+
+  [params.header]
+    [params.header.title]
+      name = "blog"
+
+  
+  [params.home]
+    [params.home.profile]
+      enable = true
+      avatarURL = "/avatar.png"
+      title = "Prof. Gilberto"
+      subtitle = "Que a força esteja conosco!"
+      typewriter = false # Exibe o texto estático na home
+      social = true
+
+    [params.author]
+      name = "Gilberto"
+      link = "https://github.com/gvoliveira"
+    
+    [params.home.posts]
+      enable = true
+      paginate = 5
+
+  
+  [params.social]
+    GitHub = "gvoliveira"
+    Linkedin = "gilbertovololiveira"
+    
+     [params.social.Lattes]
+    weight = 3
+    prefix = "http://lattes.cnpq.br/"
+    id = "7059390537752738"
+    title = "Currículo Lattes"
+    icon = { Class = "fas fa-graduation-cap" }
+
+  
+  [params.footer]
+    enable = true
+    custom = "Prof. Gilberto - Todos os direitos reservados. ☕ SSG Hugo + LoveIt"
+    hugo = false
+    copyright = true
+    author = false
+    powered = false
+    # since define o ano inicial para o intervalo de copyright
+    since = 2026
+
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "Sobre"
+  url = "/sobre/"
+  weight = 2
