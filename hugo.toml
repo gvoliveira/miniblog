@@ -1,5 +1,5 @@
 baseURL = 'https://gvoliveira.github.io/miniblog/'
-languageCode = 'pt-br'
+locale = 'pt-br'
 defaultContentLanguage = 'pt-br'
 title = 'Prof Gilberto blog'
 theme = 'LoveIt'
