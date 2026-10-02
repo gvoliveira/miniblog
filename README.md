@@ -171,20 +171,6 @@ Aguarde ~1 minuto e acesse o site publicado.
 
 ---
 
-## Roadmap
-
-- [x] Estrutura inicial com Hugo + LoveIt
-- [x] Deploy automático via GitHub Actions
-- [x] Favicon customizado
-- [x] Ícones sociais (GitHub, LinkedIn, Lattes)
-- [x] Limpeza do repositório (`.gitignore`)
-- [ ] Primeiros posts autorais
-- [ ] Página "Sobre" completa
-- [ ] Integração com comentários (Giscus)
-- [ ] Analytics (Plausible)
-- [ ] Busca local
-
----
 
 ## Licença
 
@@ -204,7 +190,7 @@ mantenha o aviso de copyright original.
 Todo o **conteúdo editorial** (textos dos posts, imagens autorais, materiais
 didáticos) é de propriedade do autor:
 
-> © 2022–2026 Prof. Gilberto. Todos os direitos reservados.
+> © 2026 Prof. Gilberto. Todos os direitos reservados.
 >
 > A reprodução parcial é permitida **apenas** com atribuição clara e link
 > para o texto original. A reprodução integral, o uso comercial ou a
