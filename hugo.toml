@@ -1,0 +1,12 @@
+baseURL = 'https://gvoliveira.github.io/miniblog/'
+locale = 'pt-br'
+title = 'miniblog'
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  description = "Miniblog com postagens em Markdown."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
