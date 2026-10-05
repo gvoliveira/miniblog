@@ -1,6 +1,6 @@
 ---
 title: "Como era o trabalho de um programador nos anos 70?"
-date: 2026-10-05T09:00:00-03:00
+date: 2026-10-05T13:00:00-03:00
 draft: false
 description: "Uma imersão sobre como se programavam mainframes nos anos 70..."
 tags: ["programacao", "historia", "tecnologia"]
