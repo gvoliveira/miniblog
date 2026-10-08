@@ -36,7 +36,7 @@ Para profissionais do conhecimento, delegar 100% dessas tarefas para a IA pode p
 
 E é até aqui que concordo totalmente com ele. De fato, tenho visto cada vez mais no meu dia a dia como professor: pessoas que simplesmente não entendem a importância de fundamentar suas bases de conhecimento. 
 
-Na programação isso parece ainda mais evidente — e preocupante —, pois as ferramentas de IA criam códigos em tempos incomparáveis. 
+Na programação isso parece ainda mais evidente, pois as ferramentas de IA criam códigos em tempos incomparáveis. 
 
 Porém, vejo que quanto mais complexa a tarefa se torna e migra para tomadas de decisão, mais necessário é ter uma fundamentação teórica e experiência prática. Só que exercitar essas habilidades **não é** fácil. Estudar **dói**, exige esforço e o resultado não é imediato.
 
